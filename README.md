@@ -1,5 +1,13 @@
 # prac20230717
+### 9. 글자 강조
+일반 **굵은 글씨**
+이텔릭체 *이텔릭*
+
+### 8. 이미지 넣기
+![cat]https://github.com/wjyhello/prac20230717/blob/main/cat.jpg
+
 ### 7. 하이퍼링크
+[PCWK]https://cafe.daum.net/pcwk
 
 
 ### 6. 가로선
