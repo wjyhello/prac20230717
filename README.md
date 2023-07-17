@@ -8,7 +8,8 @@ $$
 $x^2 + y^2 = z^2$
 
 ### 11. 같은 페이지내 이동
-화면(#이동)
+[화면(#이동)
+](https://github.com/wjyhello/prac20230717/blob/main/README.md#%EC%9D%B4%EB%8F%99)
 
 ### 10. 표
 |No|함수|의미
