@@ -8,7 +8,7 @@ $$
 $x^2 + y^2 = z^2$
 
 ### 11. 같은 페이지내 이동
-[같은 페이지내 이동](#4-pythonCode)
+[pythonCode](#4-pythonCode)
 
 ### 10. 표
 |No|함수|의미
