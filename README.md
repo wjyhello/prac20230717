@@ -27,7 +27,7 @@ $x^2 + y^2 = z^2$
 이텔릭체 *이텔릭*
 
 ### 8. 이미지 넣기
-![cat][https://github.com/wjyhello/prac20230717/blob/main/cat.jpg]
+![cat](https://github.com/wjyhello/prac20230717/blob/main/cat.jpg)
 
 ### 7. 하이퍼링크
 [PCWK]https://cafe.daum.net/pcwk
